@@ -5,4 +5,4 @@ import "../components/atoms/button/button.scss";
 
 export default { title: "atoms/button" };
 
-export const Example = () => Item_Example; 
+export const Example = () => Item_Example;
